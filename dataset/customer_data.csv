@@ -1,0 +1,11 @@
+cust_id,age,wealth_segment,process_date
+e,44,,2020-01-05
+m,30,medium,2020-01-05
+n,29,poor,2020-01-05
+s,64,rich,2020-01-05
+v,,medium,2020-01-05
+x,40,poor,2020-01-05
+y,41,rich,2020-01-05
+z,43,rich,2020-01-05
+s,-12,rich,2020-01-05
+z,54,rich,2021-01-05
